@@ -5,7 +5,7 @@ I'm a self-taught passionate developer from Brazil
  
 - 🌱 I’m currently learning php, (laravel, lumen, symphony, Flysystem, ...)
  
-- 👀 I’m looking to learn everything i can about Information technology and Computer Science, and a good job
+- 👀 I’m looking to learn everything i can about Information technology and Computer Science, and with this, maybe, a good job.
  
 - 📫 How to reach me? visit https://unixlocal.tk all information you need to know is there, and you can send-me a message on telegram
 
