@@ -3,7 +3,7 @@ I'm a self-taught passionate developer from Brazil
 
 - 💞️ I’m interested in everything
  
-- 🌱 I’m currently learning php, (laravel, lumen, symphony, Flysystem, ...)
+- 🌱 I’m currently learning php and javascript, (laravel, vuejs, node...)
  
 - 👀 I’m looking to learn everything i can about Information technology and Computer Science, and with this, maybe, a good job.
  
