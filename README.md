@@ -1,4 +1,4 @@
-.![image](https://img.shields.io/github/last-commit/Unix-User/Unix-User.svg)
+![image](https://img.shields.io/github/last-commit/Unix-User/Unix-User.svg)
 <a href="https://linktr.ee/wevertonslima" target="_blank">![image](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)</a>
 ![](https://komarev.com/ghpvc/?username=Unix-User)
 
