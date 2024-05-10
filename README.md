@@ -5,7 +5,7 @@
 
 ## 🚹️ Profile
 
-I'm a self-taught passionate developer from Brazil
+I'm a web developer from Brazil
 
 - 💞️ I’m interested in everything
  
