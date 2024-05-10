@@ -1,6 +1,7 @@
 ![image](https://img.shields.io/github/last-commit/Unix-User/Unix-User.svg)
 <a href="https://linktr.ee/wevertonslima" target="_blank">![image](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)</a>
 ![](https://komarev.com/ghpvc/?username=Unix-User)
+[![wakatime](https://wakatime.com/badge/user/a8a8381b-9317-447a-8482-1a09eaea9afd.svg)](https://wakatime.com/@a8a8381b-9317-447a-8482-1a09eaea9afd)
 
 ## 🚹️ Profile
 
