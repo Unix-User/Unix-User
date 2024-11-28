@@ -57,8 +57,14 @@ _OSs_
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="30"/> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" height="30"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="30"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="30"/>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Unix-User&show_icons=true&count_private=true=true&hide_border=true" alt="Unix-Users's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unix-User&layout=compact&hide_border=true" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=UnixUser&layout=compact" /></a> |
-| ------------- | ------------- | ------------- |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Unix-User&show_icons=true&count_private=true=true&hide_border=true" alt="Unix-Users's github stats" /></a> |
+| ------------- | 
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unix-User&layout=compact&hide_border=true" /></a> |
+| ------------- |
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=UnixUser&layout=compact" /></a> |
+| ------------- |
 
 <!---
 Unix-User/Unix-User is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
