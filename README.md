@@ -17,7 +17,8 @@ I'm a web developer from Brazil
 
 <a href="https://linktr.ee/wevertonslima" target="_blank">![image](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/wevertonslima/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/wevertonslima" target="_blank">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://x.com/wevertonslima" target="_blank">![image](https://img.shields.io/badge/Xwitter-000000?style=for-the-badge&logo=x&logoColor=white)</a>
+<a href="https://bsky.app/profile/wevertonslima.bsky.social" target="_blank">![image](https://img.shields.io/badge/Bluesky-2CA5E0?style=for-the-badge&logo=bluesky&logoColor=white)</a>
 <a href="https://t.me/wevertonslima" target="_blank">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:wevertonslima@gmail.com" target="_blank">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://api.whatsapp.com/send?phone=5534988291040" target="_blank">![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
