@@ -64,7 +64,7 @@ _OSs_
 | <a href="#">![Top Languages](./profile/top-langs.svg)</a> |
 | ------------- |
 
-| <a href="#">![Wakatime](./profile/Wakatime.svg)</a> |
+| <a href="#">![Wakatime](./profile/wakatime.svg)</a> |
 | ------------- |
 
 <!---
