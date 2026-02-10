@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="164.8425"
+            width="163.6335"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="164.8425"
+            x="163.6335"
             y="0"
-            width="144.615"
+            width="147.03300000000002"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="309.4575"
+            x="310.66650000000004"
             y="0"
-            width="88.0245"
+            width="87.32700000000001"
             height="8"
             fill="#e34c26"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="397.48199999999997"
+            x="397.99350000000004"
             y="0"
-            width="46.453500000000005"
+            width="46.0815"
             height="8"
             fill="#663399"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="443.9355"
+            x="444.07500000000005"
             y="0"
-            width="12.183"
+            width="12.09"
             height="8"
             fill="#083fa1"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="456.1185"
+            x="456.165"
             y="0"
-            width="7.718999999999999"
+            width="7.6725"
             height="8"
             fill="#cb171e"
           />
@@ -195,7 +195,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 2 hrs 26 mins
+        Other - 2 hrs 29 mins
       </text>
     </g>
   
