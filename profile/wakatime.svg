@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="165"
+        viewBox="0 0 495 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="215.4345"
+            width="239.8005"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="215.4345"
+            x="239.8005"
             y="0"
-            width="171.12"
+            width="97.7895"
             height="8"
             fill="#f1e05a"
           />
@@ -147,49 +147,66 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="386.5545"
+            x="337.59000000000003"
             y="0"
-            width="59.055"
+            width="72.02850000000001"
             height="8"
-            fill="#e34c26"
+            fill="#858585"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="445.6095"
+            x="409.61850000000004"
             y="0"
-            width="17.67"
+            width="44.73299999999999"
             height="8"
             fill="#083fa1"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="454.35150000000004"
+            y="0"
+            width="10.3695"
+            height="8"
+            fill="#cb171e"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 2 hrs 29 mins
+        Other - 2 hrs 43 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 1 hr 59 mins
+        JavaScript - 1 hr 6 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 41 mins
+        Vue.js - 49 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 12 mins
+        Markdown - 30 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        YAML - 7 mins
       </text>
     </g>
   
