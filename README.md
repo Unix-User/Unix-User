@@ -67,6 +67,9 @@ _OSs_
 | <a href="#">![Wakatime](./profile/wakatime.svg)</a> |
 | ------------- |
 
+|<a href="https://wakatime.com/@UnixUser"><img src="https://wakatime.com/share/@UnixUser/7d402162-9a7e-4233-967d-8ba5d661c0a0.png" /></a> |
+| ------------- |
+
 <!---
 Unix-User/Unix-User is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
