@@ -129,33 +129,33 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="235.476"
+            width="296.9955"
             height="8"
-            fill="#cb171e"
+            fill="#858585"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="235.476"
+            x="296.9955"
             y="0"
-            width="229.524"
+            width="168.0045"
             height="8"
-            fill="#858585"
+            fill="#cb171e"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 46 mins
+        Other - 26 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 44 mins
+        YAML - 15 mins
       </text>
     </g>
   
