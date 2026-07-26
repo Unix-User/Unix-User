@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="453.93300000000005"
+            width="459.699"
             height="8"
             fill="#41b883"
           />
@@ -138,7 +138,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue - 13 mins
+        Vue - 28 mins
       </text>
     </g>
   
