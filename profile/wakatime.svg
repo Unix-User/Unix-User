@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="165"
+        viewBox="0 0 495 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,17 +129,17 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="200.1825"
+            width="126.5265"
             height="8"
-            fill="#858585"
+            fill="#41b883"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="200.1825"
+            x="126.5265"
             y="0"
-            width="181.9545"
+            width="110.11200000000001"
             height="8"
             fill="#4F5D95"
           />
@@ -147,9 +147,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="382.137"
+            x="236.63850000000002"
             y="0"
-            width="50.4525"
+            width="88.2105"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="324.84900000000005"
+            y="0"
+            width="84.95549999999999"
             height="8"
             fill="#083fa1"
           />
@@ -157,39 +167,46 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="432.5895"
+            x="409.8045"
             y="0"
-            width="32.4105"
+            width="55.242000000000004"
             height="8"
-            fill="#41b883"
+            fill="#cb171e"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 21 mins
+        Vue - 31 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP - 19 mins
+        PHP - 27 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 5 mins
+        Other - 21 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#41b883" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue - 3 mins
+        Markdown - 21 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        YAML - 13 mins
       </text>
     </g>
   
