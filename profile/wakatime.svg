@@ -129,17 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="126.5265"
-            height="8"
-            fill="#41b883"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="126.5265"
-            y="0"
-            width="110.11200000000001"
+            width="221.52599999999998"
             height="8"
             fill="#4F5D95"
           />
@@ -147,9 +137,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="236.63850000000002"
+            x="221.52599999999998"
             y="0"
-            width="88.2105"
+            width="86.76899999999999"
+            height="8"
+            fill="#41b883"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="308.29499999999996"
+            y="0"
+            width="60.4965"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="324.84900000000005"
+            x="368.7914999999999"
             y="0"
-            width="84.95549999999999"
+            width="58.2645"
             height="8"
             fill="#083fa1"
           />
@@ -167,25 +167,25 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="409.8045"
+            x="427.0559999999999"
             y="0"
-            width="55.242000000000004"
+            width="37.8975"
             height="8"
             fill="#cb171e"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#41b883" />
+      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue - 31 mins
+        PHP - 1 hr 20 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP - 27 mins
+        Vue - 31 mins
       </text>
     </g>
   
