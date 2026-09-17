@@ -129,16 +129,33 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="465"
+            width="400.22549999999995"
             height="8"
             fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="400.22549999999995"
+            y="0"
+            width="64.7745"
+            height="8"
+            fill="#4F5D95"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 12 mins
+        Other - 28 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        PHP - 4 mins
       </text>
     </g>
   
