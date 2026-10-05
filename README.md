@@ -5,15 +5,15 @@
 
 ## 🚹️ Profile
 
-I'm a web developer from Brazil
+I was a web developer from Brazil
 
-- 💞️ I’m interested in everything
+- 🐬 So long, and thanks for all the fish
  
-- 🌱 I’m currently learning php and javascript, (laravel, vuejs, node, nestjs, reactjs, react-native...)
+- 🌱 I was learning php and javascript, (laravel, vuejs, node, nestjs, reactjs, react-native...)
  
-- 👀 I’m looking to learn everything i can about Information technology and Computer Science.
+- 👀 I was looking to learn everything i can about Information technology and Computer Science.
  
-- 📫 How to reach me? Try these links
+- 📫 How to reach me? You wont! These links are outdated
 
 <a href="https://linktr.ee/wevertonslima" target="_blank">![image](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/wevertonslima/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
